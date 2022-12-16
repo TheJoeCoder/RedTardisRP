@@ -1,0 +1,17 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/spyglass"
+    },
+    "overrides": [
+		{"predicate": {"custom_model_data": 1}, "model": "item/redgamerextr"},
+		{"predicate": {"custom_model_data": 2}, "model": "item/redgamerextrsh"},
+        {"predicate": {"custom_model_data": 3}, "model": "item/sonic"},
+        {"predicate": {"custom_model_data": 4}, "model": "item/radar"},
+        {"predicate": {"custom_model_data": 7}, "model": "item/publiccall"},
+        {"predicate": {"custom_model_data": 8}, "model": "item/publiccall2"},
+        {"predicate": {"custom_model_data": 9}, "model": "item/red"},
+        {"predicate": {"custom_model_data": 10}, "model": "item/red2"},
+        {"predicate": {"custom_model_data": 11}, "model": "item/dalek"}
+	]
+}
