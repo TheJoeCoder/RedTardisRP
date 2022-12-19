@@ -1,7 +1,7 @@
 # Red-Industries Tardis Resource Pack
 This is the Tardis server resource pack.
 
-If you want to contribute, read below. Otherwise, download the latest version of the pack [here](https://ci.radialbog9.uk/job/RedTardisRP/lastSuccessfulBuild/artifact/redtardis.zip).
+If you want to contribute, read below. Otherwise, download the latest version of the pack [here](https://ci.radialbog9.uk/job/RedTardisRP/job/master/lastSuccessfulBuild/artifact/redtardis.zip).
 
 ## To contribute
 * First, download Git for your platform. This is easier to do by installing [GitHub desktop](https://desktop.github.com/). Open the app and sign into (or create) a GitHub account.
