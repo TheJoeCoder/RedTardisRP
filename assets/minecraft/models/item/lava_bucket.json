@@ -4,9 +4,9 @@
         "layer0": "item/lava_bucket"
     },
     "overrides": [
-		{"predicate": {"custom_model_data": 1}, "model": "item/redgamerextr"},
-		{"predicate": {"custom_model_data": 2}, "model": "item/redgamerextrsh"},
-        {"predicate": {"custom_model_data": 3}, "model": "item/sonic"},
-        {"predicate": {"custom_model_data": 6}, "model": "item/atron"}
+		{"predicate": {"custom_model_data": 1}, "model": "item/tardis/redgamerextr"},
+		{"predicate": {"custom_model_data": 2}, "model": "item/tardis/redgamerextrsh"},
+        {"predicate": {"custom_model_data": 3}, "model": "item/tardis/sonic"},
+        {"predicate": {"custom_model_data": 6}, "model": "item/tardis/atron"}
 	]
 }

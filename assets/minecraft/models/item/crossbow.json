@@ -32,12 +32,12 @@
         {"predicate": {"charged": 1},"model": "item/crossbow_arrow"},
         {"predicate": {"charged": 1,"firework": 1},"model": "item/crossbow_firework"},
         
-        {"predicate": {"custom_model_data": 1}, "model": "item/redgamerextr"},
-		{"predicate": {"custom_model_data": 2}, "model": "item/redgamerextrsh"},
-        {"predicate": {"custom_model_data": 3}, "model": "item/sonic"},
-        {"predicate": {"custom_model_data": 4}, "model": "item/radar"},
-        {"predicate": {"custom_model_data": 7}, "model": "item/publiccall"},
-        {"predicate": {"custom_model_data": 8}, "model": "item/publiccall2"},
-        {"predicate": {"custom_model_data": 22}, "model": "item/bow2"}
+        {"predicate": {"custom_model_data": 1}, "model": "item/tardis/redgamerextr"},
+		{"predicate": {"custom_model_data": 2}, "model": "item/tardis/redgamerextrsh"},
+        {"predicate": {"custom_model_data": 3}, "model": "item/tardis/sonic"},
+        {"predicate": {"custom_model_data": 4}, "model": "item/tardis/radar"},
+        {"predicate": {"custom_model_data": 7}, "model": "item/tardis/publiccall"},
+        {"predicate": {"custom_model_data": 8}, "model": "item/tardis/publiccall2"},
+        {"predicate": {"custom_model_data": 22}, "model": "item/tardis/bow2"}
 	]
 }

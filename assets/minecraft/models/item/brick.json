@@ -4,7 +4,7 @@
         "layer0": "item/brick"
     },
     "overrides": [
-		{"predicate": {"custom_model_data": 1}, "model": "item/disaster"},
-	    {"predicate": {"custom_model_data": 2}, "model": "item/toc"}
+		{"predicate": {"custom_model_data": 1}, "model": "item/tardis/disaster"},
+	    {"predicate": {"custom_model_data": 2}, "model": "item/tardis/toc"}
 	]
 }
