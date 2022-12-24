@@ -1,0 +1,916 @@
+{
+	"block.dalek_door_close":{
+		"category":"block",
+		"subtitle":"subtitles.block.door.toggle",
+		"sounds":[
+			{ "name":"minecraft:block/dalek_door_close", "stream":false }
+		]
+	},
+	"block.dalek_door_open":{
+		"category":"block",
+		"subtitle":"subtitles.block.door.toggle",
+		"sounds":[
+			{ "name":"minecraft:block/dalek_door_open", "stream":false }
+		]
+	},
+	"block.deadlock_door_close":{
+		"category":"block",
+		"subtitle":"subtitles.block.door.toggle",
+		"sounds":[
+			{ "name":"minecraft:block/deadlock_door_close", "stream":false }
+		]
+	},
+	"block.deadlock_door_open":{
+		"category":"block",
+		"subtitle":"subtitles.block.door.toggle",
+		"sounds":[
+			{ "name":"minecraft:block/deadlock_door_open", "stream":false }
+		]
+	},
+	"block.beta_chest_open":{
+		"category":"block",
+		"subtitle":"subtitles.block.chest.open",
+		"sounds":[
+			{ "name":"minecraft:block/beta_chest_open", "stream":false }
+		]
+	},
+	"block.beta_chest_close":{
+		"category":"block",
+		"subtitle":"subtitles.block.chest.close",
+		"sounds":[
+			{ "name":"minecraft:block/beta_chest_close", "stream":false }
+		]
+	},
+	"block.classic_grass_step":{
+		"category":"block",
+		"subtitle":"subtitles.block.generic.footsteps",
+		"sounds":[
+			{ "name":"minecraft:block/classic_grass_step_0", "stream":false },
+			{ "name":"minecraft:block/classic_grass_step_1", "stream":false },
+			{ "name":"minecraft:block/classic_grass_step_2", "stream":false },
+			{ "name":"minecraft:block/classic_grass_step_3", "stream":false }
+		]
+	},
+	"block.classic_gravel_step":{
+		"category":"block",
+		"subtitle":"subtitles.block.generic.footsteps",
+		"sounds":[
+			{ "name":"minecraft:block/classic_gravel_step_0", "stream":false },
+			{ "name":"minecraft:block/classic_gravel_step_1", "stream":false },
+			{ "name":"minecraft:block/classic_gravel_step_2", "stream":false },
+			{ "name":"minecraft:block/classic_gravel_step_3", "stream":false }
+		]
+	},
+	"block.classic_wood_step":{
+		"category":"block",
+		"subtitle":"subtitles.block.generic.footsteps",
+		"sounds":[
+			{ "name":"minecraft:block/classic_wood_step_0", "stream":false },
+			{ "name":"minecraft:block/classic_wood_step_1", "stream":false },
+			{ "name":"minecraft:block/classic_wood_step_2", "stream":false },
+			{ "name":"minecraft:block/classic_wood_step_3", "stream":false }
+		]
+	},
+	"block.classic_stone_step":{
+		"category":"block",
+		"subtitle":"subtitles.block.generic.footsteps",
+		"sounds":[
+			{ "name":"minecraft:block/classic_stone_step_0", "stream":false },
+			{ "name":"minecraft:block/classic_stone_step_1", "stream":false },
+			{ "name":"minecraft:block/classic_stone_step_2", "stream":false },
+			{ "name":"minecraft:block/classic_stone_step_3", "stream":false }
+		]
+	},
+	"block.bubble_wrap_break":{
+		"category":"block",
+		"subtitle":"subtitles.block.bubble_wrap",
+		"sounds":[
+			{ "name":"minecraft:block/bubble_wrap_break_0", "stream":false },
+			{ "name":"minecraft:block/bubble_wrap_break_1", "stream":false },
+			{ "name":"minecraft:block/bubble_wrap_break_2", "stream":false },
+			{ "name":"minecraft:block/bubble_wrap_break_3", "stream":false }
+		]
+	},
+	"block.bubble_wrap_step":{
+		"category":"block",
+		"subtitle":"subtitles.block.generic.place",
+		"sounds":[
+			{ "name":"minecraft:block/bubble_wrap_step_0", "stream":false },
+			{ "name":"minecraft:block/bubble_wrap_step_1", "stream":false },
+			{ "name":"minecraft:block/bubble_wrap_step_2", "stream":false },
+			{ "name":"minecraft:block/bubble_wrap_step_3", "stream":false }
+		]
+	},
+	"block.cardboard_break":{
+		"category":"block",
+		"subtitle":"subtitles.block.generic.break",
+		"sounds":[
+			{ "name":"minecraft:block/cardboard_break_0", "stream":false },
+			{ "name":"minecraft:block/cardboard_break_1", "stream":false },
+			{ "name":"minecraft:block/cardboard_break_2", "stream":false }
+		]
+	},
+	"block.cardboard_step":{
+		"category":"block",
+		"subtitle":"subtitles.block.generic.footsteps",
+		"sounds":[
+			{ "name":"minecraft:block/cardboard_step_0", "stream":false },
+			{ "name":"minecraft:block/cardboard_step_1", "stream":false },
+			{ "name":"minecraft:block/cardboard_step_2", "stream":false }
+		]
+	},
+	"block.cardboard_place":{
+		"category":"block",
+		"subtitle":"subtitles.block.generic.place",
+		"sounds":[
+			{ "name":"minecraft:block/cardboard_place_0", "stream":false },
+			{ "name":"minecraft:block/cardboard_place_1", "stream":false },
+			{ "name":"minecraft:block/cardboard_place_2", "stream":false }
+		]
+	},
+	"block.cardboard_hit":{
+		"category":"block",
+		"subtitle":"subtitles.block.generic.hit",
+		"sounds":[
+			{ "name":"minecraft:block/cardboard_hit_0", "stream":false },
+			{ "name":"minecraft:block/cardboard_hit_1", "stream":false },
+			{ "name":"minecraft:block/cardboard_hit_2", "stream":false }
+		]
+	},
+	"block.cardboard_fall":{
+		"category":"block",
+		"subtitle":"subtitles.block.generic.fall",
+		"sounds":[
+			{ "name":"minecraft:block/cardboard_fall_0", "stream":false },
+			{ "name":"minecraft:block/cardboard_fall_1", "stream":false },
+			{ "name":"minecraft:block/cardboard_fall_2", "stream":false }
+		]
+	},
+	"block.cardboard_open":{
+		"category":"block",
+		"subtitle":"subtitles.block.cardboard_open",
+		"sounds":[
+			{ "name":"minecraft:block/cardboard_open_0", "stream":false },
+			{ "name":"minecraft:block/cardboard_open_1", "stream":false },
+			{ "name":"minecraft:block/cardboard_open_2", "stream":false }
+		]
+	},
+	"block.cardboard_close":{
+		"category":"block",
+		"subtitle":"subtitles.block.cardboard_close",
+		"sounds":[
+			{ "name":"minecraft:block/cardboard_close_0", "stream":false },
+			{ "name":"minecraft:block/cardboard_close_1", "stream":false },
+			{ "name":"minecraft:block/cardboard_close_2", "stream":false }
+		]
+	},
+	"block.grate_step":{
+		"category":"block",
+		"subtitle":"subtitles.block.generic.footsteps",
+		"sounds":[
+			{ "name":"minecraft:block/grate_step_0", "stream":false },
+			{ "name":"minecraft:block/grate_step_1", "stream":false },
+			{ "name":"minecraft:block/grate_step_2", "stream":false }
+		]
+	},
+	"block.teleport_pad":{
+		"category":"block",
+		"subtitle":"subtitles.block.teleport_pad",
+		"sounds":[
+			{ "name":"minecraft:block/teleport_pad", "stream":false }
+		]
+	},
+	"item.tardis_compass.lock":{
+		"category":"block",
+		"subtitle":"subtitles.block.lodestone_amplifier",
+		"sounds": [
+			"minecraft:block/lodestone/lock1",
+			"minecraft:block/lodestone/lock2"
+		]
+	},
+	"tardis.lock":{
+		"subtitle":"subtitles.tardis.lock",
+		"category":"master",
+		"sounds":[
+			{ "name":"minecraft:tardis/lock_0", "stream":false },
+			{ "name":"minecraft:tardis/lock_1", "stream":false },
+			{ "name":"minecraft:tardis/lock_2", "stream":false },
+			{ "name":"minecraft:tardis/lock_3", "stream":false }
+		]
+	},
+	"tardis.flight_demat":{
+		"category":"block",
+		"subtitle":"subtitles.tardis.flight_demat",
+		"sounds":[
+			{ "name":"minecraft:tardis/flight_demat", "stream":false }
+		]
+	},
+	"tardis.flight_remat":{
+		"category":"block",
+		"subtitle":"subtitles.tardis.flight_remat",
+		"sounds":[
+			{ "name":"minecraft:tardis/flight_remat", "stream":false }
+		]
+	},
+	"tardis.flight_thud":{
+		"category":"block",
+		"subtitle":"subtitles.tardis.flight_thud",
+		"sounds":[
+			{ "name":"minecraft:tardis/flight_thud", "stream":false }
+		]
+	},
+	"tardis.controls_beep":{
+		"category":"block",
+		"subtitle":"subtitles.tardis.controls_beep",
+		"sounds":[
+			{ "name":"minecraft:tardis/controls_beep_0", "stream":false },
+			{ "name":"minecraft:tardis/controls_beep_1", "stream":false },
+			{ "name":"minecraft:tardis/controls_beep_2", "stream":false }
+		]
+	},
+	"tardis.controls_ding":{
+		"category":"block",
+		"subtitle":"subtitles.tardis.controls_ding",
+		"sounds":[
+			{ "name":"minecraft:tardis/controls_ding", "stream":false }
+		]
+	},
+	"tardis.controls_button_click":{
+		"category":"block",
+		"subtitle":"subtitles.block.button.click",
+		"sounds":[
+			{ "name":"minecraft:tardis/controls_button_click", "stream":false }
+		]
+	},
+	"tardis.controls_button_release":{
+		"category":"block",
+		"sounds":[
+			{ "name":"minecraft:tardis/controls_button_release", "stream":false }
+		]
+	},
+	"tardis.controls_scanner":{
+		"category":"block",
+		"subtitle":"subtitles.tardis.controls_scanner",
+		"sounds":[
+			{ "name":"minecraft:tardis/controls_scanner", "stream":false }
+		]
+	},
+	"tardis.controls_lever":{
+		"category":"block",
+		"subtitle":"subtitles.block.lever.click",
+		"sounds":[
+			{ "name":"minecraft:tardis/controls_lever", "stream":false }
+		]
+	},
+	"tardis.module_insert":{
+		"category":"block",
+		"subtitle":"subtitles.tardis.module_insert",
+		"sounds":[
+			{ "name":"minecraft:tardis/module_insert", "stream":false }
+		]
+	},
+	"tardis.module_remove":{
+		"category":"block",
+		"subtitle":"subtitles.tardis.module_remove",
+		"sounds":[
+			{ "name":"minecraft:tardis/module_remove", "stream":false }
+		]
+	},
+	"tardis.module_write":{
+		"category":"block",
+		"subtitle":"subtitles.tardis.module_write",
+		"sounds":[
+			{ "name":"minecraft:tardis/module_write", "stream":false }
+		]
+	},
+	"tardis.module_load":{
+		"category":"block",
+		"subtitle":"subtitles.tardis.module_load",
+		"sounds":[
+			{ "name":"minecraft:tardis/module_load", "stream":false }
+		]
+	},
+	"tardis.sonic_workbench_insert":{
+		"category":"block",
+		"subtitle":"subtitles.tardis.sonic_workbench_insert",
+		"sounds":[
+			{ "name":"minecraft:tardis/sonic_workbench_insert", "stream":false }
+		]
+	},
+	"tardis.sonic_workbench_remove":{
+		"category":"block",
+		"subtitle":"subtitles.tardis.sonic_workbench_remove",
+		"sounds":[
+			{ "name":"minecraft:tardis/sonic_workbench_remove", "stream":false }
+		]
+	},
+	"tardis.chameleon_panel_unlock":{
+		"category":"block",
+		"subtitle":"subtitles.tardis.chameleon_panel_unlock",
+		"sounds":[
+			{ "name":"minecraft:tardis/chameleon_panel_unlock", "stream":false }
+		]
+	},
+	"tardis.sonic_workbench_unlock":{
+		"category":"block",
+		"subtitle":"subtitles.tardis.sonic_workbench_unlock",
+		"sounds":[
+			{ "name":"minecraft:tardis/sonic_workbench_unlock", "stream":false }
+		]
+	},
+	"tardis.fault_locator_insert":{
+		"category":"block",
+		"subtitle":"subtitles.tardis.fault_locator_insert",
+		"sounds":[
+			{ "name":"minecraft:tardis/fault_locator_insert", "stream":false }
+		]
+	},
+	"tardis.fault_locator_remove":{
+		"category":"block",
+		"subtitle":"subtitles.tardis.fault_locator_remove",
+		"sounds":[
+			{ "name":"minecraft:tardis/fault_locator_remove", "stream":false }
+		]
+	},
+	"tardis.fault_locator_error":{
+		"category":"block",
+		"subtitle":"subtitles.tardis.fault_locator_error",
+		"sounds":[
+			{ "name":"minecraft:tardis/fault_locator_error", "stream":false }
+		]
+	},
+	"tardis.fault_locator_burnout":{
+		"category":"block",
+		"subtitle":"subtitles.tardis.fault_locator_burnout",
+		"sounds":[
+			{ "name":"minecraft:tardis/fault_locator_burnout", "stream":false }
+		]
+	},
+	"tardis.fuel_refill":{
+		"category":"block",
+		"subtitle":"subtitles.tardis.fuel_refill",
+		"sounds":[
+			{ "name":"minecraft:tardis/fuel_refill", "stream":false }
+		]
+	},
+	"tardis.police_box_door_open":{
+		"category":"block",
+		"subtitle":"subtitles.block.door.toggle",
+		"sounds":[
+			{ "name":"minecraft:tardis/police_box_door_open_0", "stream":false },
+			{ "name":"minecraft:tardis/police_box_door_open_1", "stream":false },
+			{ "name":"minecraft:tardis/police_box_door_open_2", "stream":false },
+			{ "name":"minecraft:tardis/police_box_door_open_3", "stream":false }
+		]
+	},
+	"tardis.police_box_door_close":{
+		"category":"block",
+		"subtitle":"subtitles.block.door.toggle",
+		"sounds":[
+			{ "name":"minecraft:tardis/police_box_door_close_0", "stream":false },
+			{ "name":"minecraft:tardis/police_box_door_close_1", "stream":false },
+			{ "name":"minecraft:tardis/police_box_door_close_2", "stream":false },
+			{ "name":"minecraft:tardis/police_box_door_close_3", "stream":false }
+		]
+	},
+	"tardis.capsule_door_close":{
+		"category":"block",
+		"subtitle":"subtitles.block.door.toggle",
+		"sounds":[
+			{ "name":"minecraft:tardis/capsule_door_close_0", "stream":false },
+			{ "name":"minecraft:tardis/capsule_door_close_1", "stream":false },
+			{ "name":"minecraft:tardis/capsule_door_close_2", "stream":false },
+			{ "name":"minecraft:tardis/capsule_door_close_3", "stream":false }
+		]
+	},
+	"tardis.capsule_door_open":{
+		"category":"block",
+		"subtitle":"subtitles.block.door.toggle",
+		"sounds":[
+			{ "name":"minecraft:tardis/capsule_door_open_0", "stream":false },
+			{ "name":"minecraft:tardis/capsule_door_open_1", "stream":false },
+			{ "name":"minecraft:tardis/capsule_door_open_2", "stream":false },
+			{ "name":"minecraft:tardis/capsule_door_open_3", "stream":false }
+		]
+	},
+	"tardis.roundel_door_open":{
+		"category":"block",
+		"subtitle":"subtitles.block.door.toggle",
+		"sounds":[
+			{ "name":"minecraft:tardis/roundel_door_open", "stream":false }
+		]
+	},
+	"tardis.roundel_door_close":{
+		"category":"block",
+		"subtitle":"subtitles.block.door.toggle",
+		"sounds":[
+			{ "name":"minecraft:tardis/roundel_door_close", "stream":false }
+		]
+	},
+	"tardis.engine_hum":{
+		"category":"ambient",
+		"sounds":[
+			{ "name":"minecraft:tardis/engine_hum", "stream":true }
+		]
+	},
+	"misc.classic_explosion":{
+		"category":"master",
+		"subtitle":"subtitles.entity.generic.explode",
+		"sounds":[
+			{ "name":"minecraft:misc/classic_explosion", "stream":false }
+		]
+	},
+	"entity.sonic_second":{
+		"category":"entity",
+		"subtitle":"subtitles.entity.sonic_interact",
+		"sounds":[
+			{ "name":"minecraft:entity/sonic_second", "stream":false }
+		]
+	},
+	"entity.sonic_third":{
+		"category":"entity",
+		"subtitle":"subtitles.entity.sonic_interact",
+		"sounds":[
+			{ "name":"minecraft:entity/sonic_third", "stream":false }
+		]
+	},
+	"entity.sonic_fourth":{
+		"category":"entity",
+		"subtitle":"subtitles.entity.sonic_interact",
+		"sounds":[
+			{ "name":"minecraft:entity/sonic_fourth", "stream":false }
+		]
+	},
+	"entity.sonic_fifth":{
+		"category":"entity",
+		"subtitle":"subtitles.entity.sonic_interact",
+		"sounds":[
+			{ "name":"minecraft:entity/sonic_fifth", "stream":false }
+		]
+	},
+	"entity.sonic_sixth":{
+		"category":"entity",
+		"subtitle":"subtitles.entity.sonic_interact",
+		"sounds":[
+			{ "name":"minecraft:entity/sonic_sixth", "stream":false }
+		]
+	},
+	"entity.sonic_ninth":{
+		"category":"entity",
+		"subtitle":"subtitles.entity.sonic_interact",
+		"sounds":[
+			{ "name":"minecraft:entity/sonic_ninth", "stream":false }
+		]
+	},
+	"entity.sonic_ninth_extend":{
+		"category":"entity",
+		"subtitle":"subtitles.entity.sonic_interact",
+		"sounds":[
+			{ "name":"minecraft:entity/sonic_ninth_extend", "stream":false }
+		]
+	},
+	"entity.sonic_eleventh":{
+		"category":"entity",
+		"subtitle":"subtitles.entity.sonic_interact",
+		"sounds":[
+			{ "name":"minecraft:entity/sonic_eleventh", "stream":false }
+		]
+	},
+	"entity.sonic_eleventh_extend":{
+		"category":"entity",
+		"subtitle":"subtitles.entity.sonic_interact",
+		"sounds":[
+			{ "name":"minecraft:entity/sonic_eleventh_extend", "stream":false }
+		]
+	},
+	"entity.sonic_py_green":{
+		"category":"entity",
+		"subtitle":"subtitles.entity.sonic_interact",
+		"sounds":[
+			{ "name":"minecraft:entity/sonic_py_green", "stream":false }
+		]
+	},
+	"entity.sonic_py_blue":{
+		"category":"entity",
+		"subtitle":"subtitles.entity.sonic_interact",
+		"sounds":[
+			{ "name":"minecraft:entity/sonic_py_blue", "stream":false }
+		]
+	},
+	"entity.sonic_temporal":{
+		"category":"entity",
+		"subtitle":"subtitles.entity.sonic_interact",
+		"sounds":[
+			{ "name":"minecraft:entity/sonic_temporal", "stream":false }
+		]
+	},
+	"entity.sonic_epsilon":{
+		"category":"entity",
+		"subtitle":"subtitles.entity.sonic_interact",
+		"sounds":[
+			{ "name":"minecraft:entity/sonic_epsilon", "stream":false }
+		]
+	},
+	"entity.sonic_lipstick":{
+		"category":"entity",
+		"subtitle":"subtitles.entity.sonic_interact",
+		"sounds":[
+			{ "name":"minecraft:entity/sonic_lipstick", "stream":false }
+		]
+	},
+	"entity.sonic_lake":{
+		"category":"entity",
+		"subtitle":"subtitles.entity.sonic_interact",
+		"sounds":[
+			{ "name":"minecraft:entity/sonic_lake", "stream":false }
+		]
+	},
+	"entity.stattenheim_remote_sync":{
+		"category":"entity",
+		"subtitle":"subtitles.entity.stattenheim_remote_sync",
+		"sounds":[
+			{ "name":"minecraft:entity/stattenheim_remote_sync", "stream":false }
+		]
+	},
+	"entity.stattenheim_remote_summon":{
+		"category":"entity",
+		"subtitle":"subtitles.entity.stattenheim_remote_summon",
+		"sounds":[
+			{ "name":"minecraft:entity/stattenheim_remote_summon", "stream":false }
+		]
+	},
+	"entity.dalek_gunstick_shoot":{
+		"category":"entity",
+		"subtitle":"subtitles.entity.dalek_gunstick_shoot",
+		"sounds":[
+			{ "name":"minecraft:entity/dalek_gunstick_shoot", "stream":false }
+		]
+	},
+	"entity.dalek_gunstick_charge":{
+		"category":"entity",
+		"subtitle":"subtitles.entity.dalek_gunstick_charge",
+		"sounds":[
+			{ "name":"minecraft:entity/dalek_gunstick_charge", "stream":false }
+		]
+	},
+	"entity.dalek_cannon_shoot":{
+		"category":"entity",
+		"subtitle":"subtitles.entity.dalek_cannon_shoot",
+		"sounds":[
+			{ "name":"minecraft:entity/dalek_cannon_shoot", "stream":false }
+		]
+	},
+	"entity.dalek_cannon_charge":{
+		"category":"entity",
+		"subtitle":"subtitles.entity.dalek_cannon_charge",
+		"sounds":[
+			{ "name":"minecraft:entity/dalek_cannon_charge", "stream":false }
+		]
+	},
+	"entity.dalek_glide_start":{
+		"category":"entity",
+		"sounds":[
+			{ "name":"minecraft:entity/dalek_glide_start", "stream":false }
+		]
+	},
+	"entity.dalek_glide":{
+		"category":"entity",
+		"subtitle":"subtitles.entity.dalek_glide",
+		"sounds":[
+			{ "name":"minecraft:entity/dalek_glide", "stream":false }
+		]
+	},
+	"entity.dalek_hover_start":{
+		"category":"entity",
+		"sounds":[
+			{ "name":"minecraft:entity/dalek_hover_start", "stream":false }
+		]
+	},
+	"entity.dalek_hover":{
+		"category":"entity",
+		"subtitle":"subtitles.entity.dalek_hover",
+		"sounds":[
+			{ "name":"minecraft:entity/dalek_hover", "stream":false }
+		]
+	},
+	"entity.dalek_rotate":{
+		"category":"entity",
+		"subtitle":"subtitles.entity.dalek_rotate",
+		"sounds":[
+			{ "name":"minecraft:entity/dalek_rotate_0", "stream":false },
+			{ "name":"minecraft:entity/dalek_rotate_1", "stream":false }
+		]
+	},
+	"entity.dalek_eyestalk":{
+		"category":"entity",
+		"subtitle":"subtitles.dalek_rotate",
+		"sounds":[
+			{ "name":"minecraft:entity/dalek_eyestalk_0", "stream":false },
+			{ "name":"minecraft:entity/dalek_eyestalk_1", "stream":false },
+			{ "name":"minecraft:entity/dalek_eyestalk_2", "stream":false },
+			{ "name":"minecraft:entity/dalek_eyestalk_3", "stream":false }
+		]
+	},
+	"entity.dalek_classic_attack":{
+		"category":"entity",
+		"subtitle":"subtitles.entity.dalek_shoot",
+		"sounds":[
+			{ "name":"minecraft:entity/dalek_classic_attack", "stream":false }
+		]
+	},
+	"entity.dalek_skaro_attack":{
+		"category":"entity",
+		"subtitle":"subtitles.entity.dalek_shoot",
+		"sounds":[
+			{ "name":"minecraft:entity/dalek_skaro_attack_0", "stream":false },
+			{ "name":"minecraft:entity/dalek_skaro_attack_1", "stream":false },
+			{ "name":"minecraft:entity/dalek_skaro_attack_2", "stream":false },
+			{ "name":"minecraft:entity/dalek_skaro_attack_3", "stream":false },
+			{ "name":"minecraft:entity/dalek_skaro_attack_4", "stream":false },
+			{ "name":"minecraft:entity/dalek_skaro_attack_5", "stream":false },
+			{ "name":"minecraft:entity/dalek_skaro_attack_6", "stream":false }
+		]
+	},
+	"entity.dalek_skaro_ambient":{
+		"category":"entity",
+		"subtitle":"subtitles.entity.dalek_skaro_ambient",
+		"sounds":[
+			{ "name":"minecraft:entity/dalek_skaro_ambient_0", "stream":false },
+			{ "name":"minecraft:entity/dalek_skaro_ambient_1", "stream":false },
+			{ "name":"minecraft:entity/dalek_skaro_ambient_2", "stream":false },
+			{ "name":"minecraft:entity/dalek_skaro_ambient_3", "stream":false },
+			{ "name":"minecraft:entity/dalek_skaro_ambient_4", "stream":false },
+			{ "name":"minecraft:entity/dalek_skaro_ambient_5", "stream":false }
+		]
+	},
+	"entity.dalek_suicide_bomber_attack":{
+		"category":"entity",
+		"subtitle":"subtitles.entity.dalek_shoot",
+		"sounds":[
+			{ "name":"minecraft:entity/dalek_suicide_bomber_attack_0", "stream":false },
+			{ "name":"minecraft:entity/dalek_suicide_bomber_attack_1", "stream":false },
+			{ "name":"minecraft:entity/dalek_suicide_bomber_attack_2", "stream":false },
+			{ "name":"minecraft:entity/dalek_suicide_bomber_attack_3", "stream":false },
+			{ "name":"minecraft:entity/dalek_suicide_bomber_attack_4", "stream":false }
+		]
+	},
+	"entity.dalek_time_war_attack":{
+		"category":"entity",
+		"subtitle":"subtitles.entity.dalek_shoot",
+		"sounds":[
+			{ "name":"minecraft:entity/dalek_time_war_attack_0", "stream":false },
+			{ "name":"minecraft:entity/dalek_time_war_attack_1", "stream":false },
+			{ "name":"minecraft:entity/dalek_time_war_attack_2", "stream":false },
+			{ "name":"minecraft:entity/dalek_time_war_attack_3", "stream":false },
+			{ "name":"minecraft:entity/dalek_time_war_attack_4", "stream":false }
+		]
+	},
+	"entity.dalek_nether_attack":{
+		"category":"entity",
+		"subtitle":"subtitles.entity.dalek_shoot",
+		"sounds":[
+			{ "name":"minecraft:entity/dalek_nether_attack_0", "stream":false },
+			{ "name":"minecraft:entity/dalek_nether_attack_1", "stream":false },
+			{ "name":"minecraft:entity/dalek_nether_attack_2", "stream":false },
+			{ "name":"minecraft:entity/dalek_nether_attack_3", "stream":false },
+			{ "name":"minecraft:entity/dalek_nether_attack_4", "stream":false }
+		]
+	},
+	"entity.dalek_molten_attack":{
+		"category":"entity",
+		"subtitle":"subtitles.entity.dalek_shoot",
+		"sounds":[
+			{ "name":"minecraft:entity/dalek_molten_attack_0", "stream":false },
+			{ "name":"minecraft:entity/dalek_molten_attack_1", "stream":false },
+			{ "name":"minecraft:entity/dalek_molten_attack_2", "stream":false },
+			{ "name":"minecraft:entity/dalek_molten_attack_3", "stream":false },
+			{ "name":"minecraft:entity/dalek_molten_attack_4", "stream":false }
+		]
+	},
+	"entity.dalek_spark_shoot":{
+		"category":"entity",
+		"subtitle":"subtitles.entity.dalek_shoot",
+		"sounds":[
+			{ "name":"minecraft:entity/dalek_spark_shoot", "stream":false }
+		]
+	},
+	"entity.dalek_smoke_shoot":{
+		"category":"entity",
+		"subtitle":"subtitles.entity.dalek_shoot",
+		"sounds":[
+			{ "name":"minecraft:entity/dalek_smoke_shoot", "stream":false }
+		]
+	},
+	"entity.dalek_bullet_shoot":{
+		"category":"entity",
+		"subtitle":"subtitles.entity.dalek_shoot",
+		"sounds":[
+			{ "name":"minecraft:entity/dalek_bullet_shoot", "stream":false }
+		]
+	},
+	"entity.dalek_laser_shoot":{
+		"category":"entity",
+		"subtitle":"subtitles.entity.dalek_shoot",
+		"sounds":[
+			{ "name":"minecraft:entity/dalek_laser_shoot", "stream":false }
+		]
+	},
+	"entity.dalek_beam_shoot":{
+		"category":"entity",
+		"subtitle":"subtitles.entity.dalek_beam_shoot",
+		"sounds":[
+			{ "name":"minecraft:entity/dalek_beam_shoot", "stream":false }
+		]
+	},
+	"entity.dalek_flame_thrower_shoot":{
+		"category":"entity",
+		"subtitle":"subtitles.entity.dalek_shoot",
+		"sounds":[
+			{ "name":"minecraft:entity/dalek_flame_thrower_shoot", "stream":false }
+		]
+	},
+	"entity.dalek_special_weapons_charge":{
+		"category":"entity",
+		"subtitle":"subtitles.entity.dalek_special_weapons_charge",
+		"sounds":[
+			{ "name":"minecraft:entity/dalek_special_weapons_charge", "stream":false }
+		]
+	},
+	"entity.dalek_special_weapons_shoot":{
+		"category":"entity",
+		"subtitle":"subtitles.entity.dalek_shoot",
+		"sounds":[
+			{ "name":"minecraft:entity/dalek_special_weapons_shoot", "stream":false }
+		]
+	},
+	"entity.dalek_hurt":{
+		"category":"entity",
+		"subtitle":"subtitles.entity.dalek_hurt",
+		"sounds":[
+			{ "name":"minecraft:entity/dalek_hurt_0", "stream":false },
+			{ "name":"minecraft:entity/dalek_hurt_1", "stream":false },
+			{ "name":"minecraft:entity/dalek_hurt_2", "stream":false }
+		]
+	},
+	"entity.dalek_imperial_attack":{
+		"category":"entity",
+		"subtitle":"subtitles.entity.dalek_attack",
+		"sounds":[
+			{ "name":"minecraft:entity/dalek_imperial_exterminate", "stream":false },
+			{ "name":"minecraft:entity/dalek_imperial_exterminate_1", "stream":false },
+			{ "name":"minecraft:entity/dalek_imperial_exterminate_2", "stream":false },
+			{ "name":"minecraft:entity/dalek_imperial_exterminate_3", "stream":false },
+			{ "name":"minecraft:entity/dalek_imperial_exterminate_4", "stream":false },
+			{ "name":"minecraft:entity/dalek_imperial_exterminate_5", "stream":false },
+			{ "name":"minecraft:entity/dalek_imperial_exterminate_6", "stream":false },
+			{ "name":"minecraft:entity/dalek_imperial_exterminate_7", "stream":false },
+			{ "name":"minecraft:entity/dalek_imperial_exterminate_8", "stream":false },
+			{ "name":"minecraft:entity/dalek_imperial_exterminate_9", "stream":false }
+		]
+	},
+	"entity.dalek_imperial_stay_where_you_are":{
+		"category":"entity",
+		"subtitle":"subtitles.entity.dalek_imperial_stay_where_you_are",
+		"sounds":[
+			{ "name":"minecraft:entity/dalek_imperial_stay_where_you_are", "stream":false }
+		]
+	},
+	"entity.cyberman_step":{
+		"category":"entity",
+		"subtitle":"subtitles.entity.cyberman_step",
+		"sounds":[
+			{ "name":"minecraft:entity/cyberman_step", "stream":false }
+		]
+	},
+	"entity.cyberman_living":{
+		"category":"entity",
+		"subtitle":"subtitles.entity.cyberman_living",
+		"sounds":[
+			{ "name":"minecraft:entity/cyberman_living_0", "stream":false },
+			{ "name":"minecraft:entity/cyberman_living_1", "stream":false },
+			{ "name":"minecraft:entity/cyberman_living_2", "stream":false },
+			{ "name":"minecraft:entity/cyberman_living_3", "stream":false },
+			{ "name":"minecraft:entity/cyberman_living_4", "stream":false },
+			{ "name":"minecraft:entity/cyberman_living_5", "stream":false },
+			{ "name":"minecraft:entity/cyberman_living_6", "stream":false }
+		]
+	},
+	"entity.cyberman_hurt":{
+		"category":"entity",
+		"subtitle":"subtitles.entity.cyberman_hurt",
+		"sounds":[
+			{ "name":"minecraft:entity/cyberman_hurt_0", "stream":false },
+			{ "name":"minecraft:entity/cyberman_hurt_1", "stream":false }
+		]
+	},
+	"entity.cyberman_shoot":{
+		"category":"entity",
+		"subtitle":"subtitles.entity.cyberman_shoot",
+		"sounds":[
+			{ "name":"minecraft:entity/cyberman_shoot", "stream":false }
+		]
+	},
+	"entity.auton_shoot":{
+		"category":"entity",
+		"subtitle":"subtitles.entity.auton_shoot",
+		"sounds":[
+			{ "name":"minecraft:entity/auton_shoot", "stream":false }
+		]
+	},
+	"music.title_screen":{
+		"category":"music",
+		"sounds":[
+			{ "name":"minecraft:music/title_screen", "stream":true },
+			{ "name":"minecraft:music/title_screen_alt_a", "stream":true },
+			{ "name":"minecraft:music/title_screen_alt_b", "stream":true }
+		]
+	},
+	"music.disc_cyberwave":{
+		"category":"music",
+		"sounds":[
+			{ "name":"minecraft:music/disc_cyberwave", "stream":true }
+		]
+	},
+	"music.disc_song":{
+		"category":"music",
+		"sounds":[
+			{ "name":"minecraft:music/disc_song", "stream":true }
+		]
+	},
+	"music.boss_dalek":{
+		"category":"music",
+		"sounds":[
+			{ "name":"minecraft:music/boss_dalek", "stream":true }
+		]
+	},
+	"music.boss_time_lord":{
+		"category":"music",
+		"sounds":[
+			{"name":"minecraft:music/boss_time_lord", "stream":true}
+		]
+	},
+	"music.classic_ambience":{
+		"category":"music",
+		"sounds":[
+			{"name":"music/game/calm1", "stream":true},
+			{"name":"music/game/calm2", "stream":true},
+			{"name":"music/game/calm3", "stream":true}
+		]
+	},
+	"music.tardis_ambience":{
+		"category":"music",
+		"sounds":[
+			{ "name":"minecraft:music/tardis_0", "stream":true },
+			{ "name":"minecraft:music/tardis_1", "stream":true },
+			{ "name":"minecraft:music/tardis_2", "stream":true }
+		]
+	},
+	"music.skaro_ambience":{
+		"category":"music",
+		"sounds":[
+			{ "name":"minecraft:music/skaro_0", "stream":true },
+			{ "name":"minecraft:music/skaro_1", "stream":true },
+			{ "name":"minecraft:music/skaro_2", "stream":true },
+			{ "name":"minecraft:music/skaro_3", "stream":true }
+		]
+	},
+	"player.classic_hurt":{
+		"category":"player",
+		"subtitle":"subtitles.entity.generic.hurt",
+		"sounds":[
+			{ "name":"minecraft:player/classic_hurt", "stream":false }
+		]
+	},
+	"player.snap":{
+		"category":"player",
+		"subtitle":"subtitles.player.snap",
+		"sounds":[
+			{ "name":"minecraft:player/snap_0", "stream":false },
+			{ "name":"minecraft:player/snap_1", "stream":false },
+			{ "name":"minecraft:player/snap_2", "stream":false },
+			{ "name":"minecraft:player/snap_3", "stream":false },
+			{ "name":"minecraft:player/snap_4", "stream":false }
+		]
+	},
+	"player.phone":{
+		"category":"player",
+		"subtitle":"subtitles.player.phone",
+		"sounds":[
+			{ "name":"minecraft:player/phone", "stream":false }
+		]
+	},
+	"misc.secret_sound_1":{
+		"category":"player",
+		"subtitle":"subtitles.secret.sound_1",
+		"sounds":[
+			{ "name":"minecraft:misc/secret_sound_1", "stream":false }
+		]
+	},
+	"misc.secret_sound_2":{
+		"category":"player",
+		"subtitle":"subtitles.secret.sound_2",
+		"sounds":[
+			{ "name":"minecraft:misc/secret_sound_2", "stream":false }
+		]
+	}
+}
