@@ -4,14 +4,6 @@
         "layer0": "item/spyglass"
     },
     "overrides": [
-		{"predicate": {"custom_model_data": 1}, "model": "item/tardis/redgamerextr"},
-		{"predicate": {"custom_model_data": 2}, "model": "item/tardis/redgamerextrsh"},
-        {"predicate": {"custom_model_data": 3}, "model": "item/tardis/sonic"},
-        {"predicate": {"custom_model_data": 4}, "model": "item/tardis/radar"},
-        {"predicate": {"custom_model_data": 7}, "model": "item/tardis/publiccall"},
-        {"predicate": {"custom_model_data": 8}, "model": "item/tardis/publiccall2"},
-        {"predicate": {"custom_model_data": 9}, "model": "item/tardis/red"},
-        {"predicate": {"custom_model_data": 10}, "model": "item/tardis/red2"},
-        {"predicate": {"custom_model_data": 11}, "model": "item/tardis/dalek"}
+		{"predicate": {"custom_model_data": 1}, "model": "item/tardis/sonic"}      
 	]
 }

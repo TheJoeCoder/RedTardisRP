@@ -1,12 +1,9 @@
 {
     "parent": "item/handheld",
     "textures": {
-        "layer0": "item/amethyst_shard"
+        "layer0": "item/echo_shard"
     },
     "overrides": [
-		{"predicate": {"custom_model_data": 1}, "model": "item/tardis/redgamerextr"},
-		{"predicate": {"custom_model_data": 2}, "model": "item/tardis/redgamerextrsh"},
-        {"predicate": {"custom_model_data": 3}, "model": "item/tardis/sonic"},
-        {"predicate": {"custom_model_data": 5}, "model": "item/tardis/key"}
+		{"predicate": {"custom_model_data": 1}, "model": "item/tardis/key"}
 	]
 }
