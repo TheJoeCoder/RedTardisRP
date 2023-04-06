@@ -24,6 +24,9 @@
         {"predicate": {"custom_model_data": 18}, "model": "item/tardis/pand"},
         {"predicate": {"custom_model_data": 19}, "model": "item/tardis/pand2"},
         {"predicate": {"custom_model_data": 20}, "model": "item/tardis/tt"},
-        {"predicate": {"custom_model_data": 21}, "model": "item/tardis/ttopen"}
+        {"predicate": {"custom_model_data": 21}, "model": "item/tardis/ttopen"},
+        {"predicate": {"custom_model_data": 22}, "model": "item/tardis/dooropen"},
+        {"predicate": {"custom_model_data": 23}, "model": "item/tardis/doorclose"},
+        {"predicate": {"custom_model_data": 24}, "model": "item/tardis/redgameropen"}
         ]
 }
