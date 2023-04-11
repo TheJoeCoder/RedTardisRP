@@ -1,0 +1,24 @@
+{
+    "sources": [
+        {
+            "type": "directory",
+            "source": "dt",
+            "prefix": "dt/"
+        },
+        {
+            "type": "directory",
+            "source": "tardis",
+            "prefix": "tardis/"
+        },
+        {
+            "type": "directory",
+            "source": "glowing",
+            "prefix": "glowing/"
+        },
+        {
+            "type": "directory",
+            "source": "painting",
+            "prefix": "painting/"
+        }
+    ]
+}
