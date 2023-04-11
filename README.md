@@ -1,4 +1,6 @@
 # Red-Industries Tardis Resource Pack
+[![Build Status - Master](https://ci.radialbog9.uk/job/RedTardisRP/job/master/badge/icon)](https://ci.radialbog9.uk/job/RedTardisRP/job/master/)
+
 This is the Tardis server resource pack.
 
 If you want to contribute, read below. Otherwise, download the latest version of the pack [here](https://ci.radialbog9.uk/job/RedTardisRP/job/master/lastSuccessfulBuild/artifact/redtardis.zip).
